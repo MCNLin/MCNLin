@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mei Chun Nghiem-Lin</h1>
 <h3 align="center">Recently graduated from Lighthouse Labs~</h3>
 
-- 🔭 I’m currently working on **practising my new skill I learned during boot camp~**
+- 🔭 I’m currently working on **practising my new skills I learned during boot camp~**
 
 - 🌱 I’m currently learning **Typescript**
 
