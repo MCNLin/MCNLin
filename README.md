@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [check them out below!](check them out below!)
+- 👨‍💻 All of my projects are available here! Check them out!
 
-- 📝 I recently wrote an article on how to peer program effectively! Check it out here ---> [https://medium.com/@mcnghiem/how-to-pair-program-effectively-6ee94af2a5dc](https://medium.com/@mcnghiem/how-to-pair-program-effectively-6ee94af2a5dc)
+- 📝 I recently wrote an article on how to peer program effectively! Check it out here: [https://medium.com/@mcnghiem/how-to-pair-program-effectively-6ee94af2a5dc](https://medium.com/@mcnghiem/how-to-pair-program-effectively-6ee94af2a5dc)
 
-- 📫 How to reach me **mcnghiem@gmail.com**
+- 📫 How to reach me: **mcnghiem@gmail.com**
 
-- 📄 Know about my experiences [https://resume.creddle.io/resume/2vojt0mbu87](https://resume.creddle.io/resume/2vojt0mbu87)
+- 📄 Know about my experiences: [Mei's Resume](https://resume.creddle.io/resume/2vojt0mbu87)
 
 - ⚡ Fun fact **I performed in a choir at the 2001 Noble Peace Prize Concert with Paul McCartney**
 
