@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for employment opportunites
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available here! Check them out!
 
